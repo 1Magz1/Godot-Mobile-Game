@@ -8,7 +8,7 @@ radius = 15.0
 height = 166.0
 
 [node name="Knife" type="CharacterBody2D"]
-collision_layer = 3
+collision_layer = 2
 collision_mask = 14
 script = ExtResource("1_lkrn2")
 
